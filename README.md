@@ -1,4 +1,4 @@
-**HW6 - World Generation and 2D Algorithms (Unity 2D)**
+#**HW6 - World Generation and 2D Algorithms (Unity 2D)**
 
 > I chose to create a new game and implement sections **1.a** and **2.b**.
 
